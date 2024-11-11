@@ -1,0 +1,1 @@
+I built a simple linear regression model to predict insurance prices. I used the rmse to test for the model's accuracy and observed patterns were not captured well enough. The model can be improved on by feature engineering or other models that capture non-linear patterns better.
